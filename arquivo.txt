@@ -1,1 +1,1 @@
-
+refactoring.guru (site para estudar padrões de projeto)
