@@ -1,1 +1,3 @@
 refactoring.guru (site para estudar padrões de projeto)
+devmedia.com.br/boas-praticas-de-programacao/21137
+metodoprogramar.com.br/melhores-ides-para-voce-programar-em-java
