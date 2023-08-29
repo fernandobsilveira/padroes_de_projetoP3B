@@ -1,0 +1,5 @@
+topicos importantes a se estudar:
+
+Clean code
+padroes de projetos
+SOLID
